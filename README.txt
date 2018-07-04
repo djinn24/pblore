@@ -5,5 +5,5 @@ The important docs are:
 3.createds.py
 4.learn.py
 
-The others are just prior versions and test versions. I didn't know git then :P
+The others are just prior versions and test versions.
 
